@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Slingshot", "Slingshot\Slingshot.vcxproj", "{CD12E405-8C17-4928-9937-C7B9752E98F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD12E405-8C17-4928-9937-C7B9752E98F3}.Debug|x64.ActiveCfg = Debug|x64
+		{CD12E405-8C17-4928-9937-C7B9752E98F3}.Debug|x64.Build.0 = Debug|x64
+		{CD12E405-8C17-4928-9937-C7B9752E98F3}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD12E405-8C17-4928-9937-C7B9752E98F3}.Debug|x86.Build.0 = Debug|Win32
+		{CD12E405-8C17-4928-9937-C7B9752E98F3}.Release|x64.ActiveCfg = Release|x64
+		{CD12E405-8C17-4928-9937-C7B9752E98F3}.Release|x64.Build.0 = Release|x64
+		{CD12E405-8C17-4928-9937-C7B9752E98F3}.Release|x86.ActiveCfg = Release|Win32
+		{CD12E405-8C17-4928-9937-C7B9752E98F3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {594AB794-819D-4CEC-AC66-9D0BF2876639}
+	EndGlobalSection
+EndGlobal
