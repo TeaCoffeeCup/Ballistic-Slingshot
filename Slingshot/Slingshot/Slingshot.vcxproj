@@ -20,7 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\glad.c" />
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
@@ -79,8 +79,8 @@
     <LibraryPath>C:\Additive\Libs;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <IncludePath>C:\Cosmic-Slingshot\Additive\Include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Cosmic-Slingshot\Additive\Libs;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Ballistic-Slingshot\Additive\Include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Ballistic-Slingshot\Additive\Libs;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>

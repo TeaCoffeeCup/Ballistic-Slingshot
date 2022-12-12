@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Cosmic-Slingshot\Slingshot\x64\Release\Slingshot.exe</FullPath>
+      <FullPath>C:\Ballistic-Slingshot\Slingshot\x64\Release\Slingshot.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
